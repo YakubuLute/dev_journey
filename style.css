@@ -1,3 +1,6 @@
+/*Place this file in a style folder  */
+/*You can create a style folder if you don't have one and place this inside it  */
+
 /* Reset and Base Styles */
 * {
     margin: 0;
@@ -349,3 +352,4 @@ body {
     }
 
 }
+
